@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<extension key="uk.co.qualitytime.relationship2way" type="module">
+  <downloadUrl></downloadUrl>
+  <file>relationship2way</file>
+  <name>Relationship (Both Ways) Report</name>
+  <description>Report template(s) for Relationships both ways round</description>
+  <license>GNU AGPL</license>
+  <maintainer>
+    <author>Mark Tompsett</author>
+    <email>mark.tompsett@qualitytime.co.uk</email>
+  </maintainer>
+  <releaseDate>2013-10-30</releaseDate>
+  <version>0.9</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This report shows relationships both ways round</comments>
+</extension>
